@@ -1,6 +1,6 @@
 baseURL = 'https://stranaimir2023ru.sakharov.world'
-languageCode = 'ru'
-title = 'Страна и мир: российские реалии 2023'
+languageCode = 'en'
+title = 'The country and the world: Russian Realities-2023'
 
 [[menus.main]]
 name = 'Home'
